@@ -149,3 +149,6 @@ fabric.properties
 .idea/
 .vscode/
 ignore/
+
+.vercel
+.env*
